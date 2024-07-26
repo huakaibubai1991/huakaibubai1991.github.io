@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a senior data mining engineer at the User Profile Group, [Meitu](https://www.meitu.com/en). Before joining Meitu in 2019, I am a business analyst at Hotel and Travel Department, User Growth Group, [Meituan](https://www.meituan.com/en-US/about-us) in 2018. Prior to this, I received my Master of Engineering degree from Nankai University in 2018. I graduated with a bachelor's degree from North China University of Science and Technology in 2015.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
