@@ -28,7 +28,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             margin-right: 20px;
         }
         .text {
-            margin-right: 20px;
+            margin-right: 40px;
         }
         img {
             max-width: 100px; /* Set a fixed width for the image */
@@ -39,13 +39,13 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 <body>
     <div class="container">
         <div class="image">
-            <img src="/images/nankai.jpg" alt="nankai" width="80%"/>
+            <img src="/images/nankai.jpg" alt="nankai" width="100%"/>
         </div>
         <div class="text">
             <p>Nankai University<br>Master of Engineering in Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
         </div>
         <div class="date">
-            <p>2016.09-2018.06</p>
+            <p>2016-2018</p>
         </div>
     </div>
 </body>
