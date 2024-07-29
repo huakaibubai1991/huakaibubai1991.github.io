@@ -12,11 +12,11 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 
 **Education Background**
 
-![南开大学校徽](/images/nankai.jpg=200x200)
+![南开大学校徽](/images/nankai.jpg =200x200)
 
 
 
-![华北理工大学轻工学院校徽](/images/qinggong.jpg=200x200)
+![华北理工大学轻工学院校徽](/images/qinggong.jpg =200x200)
 
 
 **Working Experience**
