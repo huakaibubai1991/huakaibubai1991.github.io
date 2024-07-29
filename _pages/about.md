@@ -77,7 +77,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         .date {
             flex: 1;
             text-align: right;
-            margin-top: -40px
+            margin-top: 0px
         }
         img {
             max-width: 100%;
