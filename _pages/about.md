@@ -84,6 +84,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             font-size: 16px;
             margin-left: -20px;
             height: 100px;
+            width: 600px;
             margin-top: 5px
         }
         .date {
