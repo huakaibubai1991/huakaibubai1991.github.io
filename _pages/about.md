@@ -27,13 +27,13 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         }
         .image {
             flex: 1;
-            margin-right: 10px; /* Add spacing between image and text */
+            margin-right: 5px; /* Add spacing between image and text */
         }
         .text {
             flex: 2;
             text-align: left;
             font-size: 16px;
-            height: 100px; /* Fixed height */
+            height: 80px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
             margin-top: 5px; /* Adjust top margin if needed */
         }
