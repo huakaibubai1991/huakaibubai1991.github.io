@@ -31,7 +31,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             margin-right: 40px;
         }
         img {
-            max-width: 150px; /* Set a fixed width for the image */
+            max-width: 120px; /* Set a fixed width for the image */
             height: auto;
         }
     </style>
