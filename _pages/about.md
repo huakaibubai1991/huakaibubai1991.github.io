@@ -103,7 +103,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             <img src="/images/qinggong.jpg" alt="nankai">
         </div>
         <div class="text">
-            <p>B.Eng., North China University of Science and Technology<br>Electrical Engineering and Automation</p>
+            <p>B.Eng., North China University of Science and Technology<br>Electrical Engineering and Automation<br>Outstanding Graduates of Hebei Province</p>
         </div>
         <div class="date">
             <p>2011-2015</p>
