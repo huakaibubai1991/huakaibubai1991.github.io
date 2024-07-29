@@ -12,9 +12,8 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 
 **Education Background**
 
-<left><img src="/images/nankai.jpg" alt="nankai" width="15%"/></left>          Nankai University<br>                        
-                                                                               Master of Engineering in Control Engineering<br>                                          
-                                                                               Advisor: Prof. [Jianlei Zhang](https://jianleizhang.net/home-english/)
+                                                                           Nankai University<br>Master of Engineering in Control Engineering            
+<left><img src="/images/nankai.jpg" alt="nankai" width="15%"/></left>      Advisor: Prof. [Jianlei Zhang](https://jianleizhang.net/home-english/)    
 
 
 <left><img src="/images/qinggong.jpg" alt="nankai" width="15%"/></left>
