@@ -35,7 +35,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         .date {
             flex: 1;
             text-align: right;
-            margin-top: -10px
+            margin-top: -20px
         }
         img {
             max-width: 130px;
@@ -58,7 +58,6 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 </body>
 </html>
 
-<br>
 
 <html lang="en">
 <head>
@@ -82,7 +81,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         .date {
             flex: 1;
             text-align: right;
-            margin-top: -10px
+            margin-top: -20px
         }
         img {
             max-width: 130px;
