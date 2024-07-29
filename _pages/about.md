@@ -31,10 +31,13 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         .text {
             flex: 2;
             text-align: left;
+            font-size: 16px;
+            margin-top: 5px
         }
         .date {
             flex: 1;
             text-align: right;
+            font-size: 16px;
             margin-top: -50px
         }
         img {
@@ -77,10 +80,13 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         .text {
             flex: 2;
             text-align: left;
+            font-size: 16px;
+            margin-top: 5px
         }
         .date {
             flex: 1;
             text-align: right;
+            font-size: 16px;
             margin-top: -50px
         }
         img {
