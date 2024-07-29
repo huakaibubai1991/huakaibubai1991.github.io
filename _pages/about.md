@@ -77,24 +77,24 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         }
         .image {
             flex: 1;
+            margin-right: 20px; /* Add some spacing between image and text */
         }
         .text {
             flex: 2;
             text-align: left;
             font-size: 16px;
-            margin-left: -20px;
-            height: 100px;
-            width: 1800px;
-            margin-top: 5px
+            height: 100px; /* Set the fixed height */
+            overflow: hidden; /* Hide overflow text */
+            margin-top: 5px; /* Adjust top margin if needed */
         }
         .date {
             flex: 1;
             text-align: right;
             font-size: 16px;
-            margin-top: -50px
+            margin-top: 5px; /* Adjust top margin if needed */
         }
         img {
-            max-width: 110px;
+            max-width: 110px; /* Set a fixed width for the image */
             height: auto;
         }
     </style>
