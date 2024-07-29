@@ -32,7 +32,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             flex: 2;
             text-align: left;
             font-size: 16px;
-            margin-left: -10px;
+            margin-left: -20px;
             margin-top: 5px
         }
         .date {
@@ -82,7 +82,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             flex: 2;
             text-align: left;
             font-size: 16px;
-            margin-left: -10px;
+            margin-left: -20px;
             width: 800px;
             margin-top: 5px
         }
