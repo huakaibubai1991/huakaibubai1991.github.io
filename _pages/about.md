@@ -38,7 +38,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             margin-top: -10px
         }
         img {
-            max-width: 100%;
+            max-width: 100px;
             height: auto;
         }
     </style>
@@ -85,7 +85,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             margin-top: -10px
         }
         img {
-            max-width: 100%;
+            max-width: 100px;
             height: auto;
         }
     </style>
