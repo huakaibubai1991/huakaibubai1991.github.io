@@ -77,7 +77,67 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 
 **Working Experience**
 
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three Column Layout</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin: 20px;
+        }
+        .image {
+            flex: 1;
+            margin-right: 5px; /* Add spacing between image and text */
+        }
+        .text {
+            flex: 3.5;
+            text-align: left;
+            height: 100px; /* Fixed height */
+            overflow: hidden; /* Hide overflow text */
+            font-size: 16px;
+            margin-top: 10px; /* Adjust top margin if needed */
+        }
+        .date {
+            flex: 1;
+            text-align: right;
+            font-size: 16px;
+            margin-top: 10px; /* Adjust top margin if needed */
+        }
+        img {
+            max-width: 110px; /* Fixed width for the image */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="image">
+            <img src="/images/meitu.jpg" alt="meitu"> <!-- First image -->
+        </div>
+        <div class="text">
+            <p><b>Senior Data Mining Engineer, Meitu (Beijing, CHN)</b><br>Intelligence Department, User Profile Group<br>Mentors: Yan Meng, Zhao Yang</p>
+        </div>
+        <div class="date">
+            <p>2019.06-Present</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="image">
+            <img src="/images/meituan.jpg" alt="meituan"> <!-- Second image -->
+        </div>
+        <div class="text">
+            <p><b>Business Analyst, Meituan (Beijing, CHN)</b><br> Hotel and Travel Department, User Growth Group<br>Mentors: Juan Yin, Hui Chen</p>
+        </div>
+        <div class="date">
+            <p>2018.06-2019.05</p>
+        </div>
+    </div>
+</body>
+</html>
 
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
