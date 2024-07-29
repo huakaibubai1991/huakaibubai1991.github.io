@@ -30,6 +30,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         }
         .text {
             margin-right: 100px;
+            margin-top: 20px;
         }
         img {
             max-width: 110px; /* Set a fixed width for the image */
@@ -71,6 +72,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         }
         .text {
             margin-right: 100px;
+            margin-top: 20px;
         }
         img {
             max-width: 110px; /* Set a fixed width for the image */
