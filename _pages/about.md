@@ -25,10 +25,10 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             margin: 20px;
         }
         .image {
-            margin-right: 20px;
+            margin-right: 40px;
         }
         .text {
-            margin-right: 80px;
+            margin-right: 100px;
         }
         img {
             max-width: 110px; /* Set a fixed width for the image */
