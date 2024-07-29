@@ -34,11 +34,13 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             text-align: left;
             height: 100px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
+            font-size: 18px;
             margin-top: 5px; /* Adjust top margin if needed */
         }
         .date {
             flex: 1;
             text-align: right;
+            font-size: 18px;
             margin-top: 5px; /* Adjust top margin if needed */
         }
         img {
