@@ -22,68 +22,18 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         .container {
             display: flex;
             justify-content: space-between;
-            align-items: center;
-            margin: 20px;
-        }
-        .image {
-            flex: 1;
-        }
-        .text {
-            flex: 2;
-            text-align: left;
-            font-size: 16px;
-            margin-left: -20px;
-            margin-top: 5px
-        }
-        .date {
-            flex: 1;
-            text-align: right;
-            font-size: 16px;
-            margin-top: -50px
-        }
-        img {
-            max-width: 110px;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="image">
-            <img src="/images/nankai.jpg" alt="nankai">
-        </div>
-        <div class="text">
-            <p>M.Eng., Nankai University<br>Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
-        </div>
-        <div class="date">
-            <p>2016-2018</p>
-        </div>
-    </div>
-</body>
-</html>
-
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Three Column Layout</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
             align-items: flex-start;
             margin: 20px;
         }
         .image {
             flex: 1;
-            margin-right: 20px; /* Add some spacing between image and text */
+            margin-right: 20px; /* Add spacing between image and text */
         }
         .text {
             flex: 2;
             text-align: left;
             font-size: 16px;
-            height: 100px; /* Set the fixed height */
+            height: 100px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
             margin-top: 5px; /* Adjust top margin if needed */
         }
@@ -94,7 +44,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             margin-top: 5px; /* Adjust top margin if needed */
         }
         img {
-            max-width: 110px; /* Set a fixed width for the image */
+            max-width: 110px; /* Fixed width for the image */
             height: auto;
         }
     </style>
@@ -102,7 +52,18 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 <body>
     <div class="container">
         <div class="image">
-            <img src="/images/qinggong.jpg" alt="nankai">
+            <img src="/images/nankai.jpg" alt="nankai"> <!-- First image -->
+        </div>
+        <div class="text">
+            <p>M.Eng., Nankai University<br>Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
+        </div>
+        <div class="date">
+            <p>2016-2018</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="image">
+            <img src="/images/qinggong.jpg" alt="qinggong"> <!-- Second image -->
         </div>
         <div class="text">
             <p>B.Eng., North China University of Science and Technology<br>Electrical Engineering and Automation<br>Outstanding Graduates of Hebei Province</p>
