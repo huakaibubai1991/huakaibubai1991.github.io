@@ -12,7 +12,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 
 **Education Background**
 
-<left><img src="/images/nankai.jpg" alt="nankai" width="60%"/></left>
+<left><img src="/images/nankai.jpg" alt="nankai" width="10%"/></left>
 
 
 ![华北理工大学轻工学院校徽|100](/images/qinggong.jpg "qinggong")
