@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior data mining engineer at Data Intelligence Department, User Profile Group, [Meitu](https://www.meitu.com/en). Before joining Meitu in 2019, I am a business analyst at Hotel and Travel Department, User Growth Group, [Meituan](https://www.meituan.com/en-US/about-us) in 2018. Prior to this, I received my Master of Engineering degree from Nankai University in 2018. I graduated with a bachelor's degree from North China University of Technology Light Industry College in 2015.
+I am currently a senior data mining engineer at *Data Intelligence Department*, *User Profile Group*, [Meitu](https://www.meitu.com/en). Before joining Meitu in 2019, I was a business analyst at *Hotel and Travel Department*, *User Growth Group*, [Meituan](https://www.meituan.com/en-US/about-us) in 2018. Prior to this, I received my Master of Engineering degree from [Nankai University](https://www.nankai.edu.cn/) in 2018. I graduated with a bachelor's degree from [North China University of Science and Technology](https://www.qgxy.cn/index.html) in 2015.
 
 
 **Education Background**
+![南开大学校徽](/images/nankai.jpg "nankai")
 
 
+![华北理工大学轻工学院校徽](/images/qinggong.jpg "qinggong")
 
 
 **Working Experience**
