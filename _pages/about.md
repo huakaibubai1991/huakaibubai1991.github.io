@@ -34,13 +34,13 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             text-align: left;
             height: 100px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
-            font-size: 18px;
+            font-size: 17px;
             margin-top: 5px; /* Adjust top margin if needed */
         }
         .date {
             flex: 1;
             text-align: right;
-            font-size: 18px;
+            font-size: 17px;
             margin-top: 5px; /* Adjust top margin if needed */
         }
         img {
@@ -55,7 +55,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             <img src="/images/nankai.jpg" alt="nankai"> <!-- First image -->
         </div>
         <div class="text">
-            <p>M.Eng., Nankai University<br>Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
+            <p><b>M.Eng., Nankai University</b>b<br>Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
         </div>
         <div class="date">
             <p>2016-2018</p>
@@ -66,7 +66,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             <img src="/images/qinggong.jpg" alt="qinggong"> <!-- Second image -->
         </div>
         <div class="text">
-            <p>B.Eng., North China University of Science and Technology<br>Electrical Engineering and Automation<br>Outstanding Graduates of Hebei Province</p>
+            <p><b>B.Eng., North China University of Science and Technology</b><br>Electrical Engineering and Automation<br>Outstanding Graduates of Hebei Province</p>
         </div>
         <div class="date">
             <p>2011-2015</p>
