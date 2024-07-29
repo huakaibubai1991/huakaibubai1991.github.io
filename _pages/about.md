@@ -83,7 +83,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             text-align: left;
             font-size: 16px;
             margin-left: -20px;
-            width: 800px;
+            width: 120%;
             margin-top: 5px
         }
         .date {
