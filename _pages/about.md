@@ -27,7 +27,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         }
         .image {
             flex: 1;
-            margin-right: 20px; /* Add spacing between image and text */
+            margin-right: 10px; /* Add spacing between image and text */
         }
         .text {
             flex: 2;
