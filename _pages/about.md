@@ -30,7 +30,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         }
         .text {
             margin-right: 100px;
-            margin-top: 20px;
+            margin-top: 10px;
         }
         img {
             max-width: 110px; /* Set a fixed width for the image */
@@ -63,6 +63,53 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
     <style>
         .container {
             display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 20px;
+        }
+        .image {
+            flex: 1;
+        }
+        .text {
+            flex: 2;
+            text-align: left;
+        }
+        .date {
+            flex: 1;
+            text-align: right;
+            margin-top: -40px
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="image">
+            <img src="your-image-url.jpg" alt="Description of image">
+        </div>
+        <div class="text">
+            <p>M.Eng., Nankai University<br>Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
+        </div>
+        <div class="date">
+            <p>2016-2018</p>
+        </div>
+    </div>
+</body>
+</html>
+
+<br>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three Column Layout</title>
+    <style>
+        .container {
+            display: flex;
             justify-content: flex-start;
             align-items: flex-start;
             margin: 20px;
@@ -72,7 +119,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         }
         .text {
             margin-right: 100px;
-            margin-top: 20px;
+            margin-top: 10px;
         }
         img {
             max-width: 110px; /* Set a fixed width for the image */
