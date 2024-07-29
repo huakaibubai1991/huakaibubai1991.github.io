@@ -72,7 +72,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
         .container {
             display: flex;
             justify-content: space-between;
-            align-items: center;
+            align-items: flex-start;
             margin: 20px;
         }
         .image {
