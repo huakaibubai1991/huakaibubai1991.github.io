@@ -47,7 +47,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 <body>
     <div class="container">
         <div class="image">
-            <img src="/images/nankai.jpg" alt="Description of image">
+            <img src="/images/nankai.jpg" alt="nankai" width="15%"/>
         </div>
         <div class="text">
             <p>Nankai University<br>Master of Engineering in Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
