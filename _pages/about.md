@@ -43,7 +43,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             <img src="/images/nankai.jpg" alt="nankai">
         </div>
         <div class="text">
-            <p>Nankai University<br>Master of Engineering in Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
+            <p>M.Eng., Nankai University<br>Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
         </div>
         <div class="date">
             <p>2016-2018</p>
@@ -84,7 +84,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             <img src="/images/qinggong.jpg" alt="qinggong">
         </div>
         <div class="text">
-            <p>North China University of Science and Technology<br>Bachelor of Engineering in Electrical Engineering and Automation</p>
+            <p>B.Eng., North China University of Science and Technology<br>Electrical Engineering and Automation</p>
         </div>
         <div class="date">
             <p>2011-2015</p>
