@@ -14,50 +14,20 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
                                                                            
 <left><img src="/images/nankai.jpg" alt="nankai" width="15%"/></left>          
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Three Column Layout</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin: 20px;
-        }
-        .image {
-            flex: 1;
-        }
-        .text {
-            flex: 2;
-            text-align: center;
-        }
-        .date {
-            flex: 1;
-            text-align: right;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="image">
-            <img src="/images/nankai.jpg" alt="nankai" width="15%"/>
-        </div>
-        <div class="text">
-            <p>Nankai University<br>Master of Engineering in Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
-        </div>
-        <div class="date">
-            <p>2024-07-29</p>
-        </div>
-    </div>
-</body>
-</html>
+<tr class="wsite-multicol-tr">
+															<td class="wsite-multicol-col" style="padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:0" height="120" width="16%">
+															<p align="center" style="line-height: 150%">
+															<img border="0" src="/images/nankai.jpg" width="100" height="100"></td>
+															<td class="wsite-multicol-col" style="padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:0" height="120" width="66%">
+															<p style="line-height: 150%; margin-top: 14px; margin-bottom: 20px">
+															<b>M.Phil., The Hong Kong University of Science and Technology</b><br>
+															Electronic and Computer Engineering<br>
+															Advisor: Prof.
+															<a href="https://scholar.google.com/citations?user=OS0ovwYAAAAJ&hl=en">Oscar C. Au</a></td>
+															<td class="wsite-multicol-col" style="padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:0" height="120" width="18%">
+															<p style="line-height: 150%; margin-top: 14px; margin-bottom: 20px">
+															2009 - 2012</p></td>
+														</tr>
 
 
 
