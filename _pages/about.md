@@ -11,9 +11,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 
 
 **Education Background**
-                                                                           
-<left><img src="/images/nankai.jpg" alt="nankai" width="15%"/></left>          
-
+                                                                                     
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,13 +44,13 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 <body>
     <div class="container">
         <div class="image">
-            <img src="/images/nankai.jpg" alt="nankai" width="50%"/>
+            <img src="/images/nankai.jpg" alt="nankai" width="100%"/>
         </div>
         <div class="text">
             <p>Nankai University<br>Master of Engineering in Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
         </div>
         <div class="date">
-            <p>2024-07-29</p>
+            <p>2016.09-2018.06</p>
         </div>
     </div>
 </body>
