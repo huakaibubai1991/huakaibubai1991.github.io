@@ -11,9 +11,54 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 
 
 **Education Background**
+                                                                           
+<left><img src="/images/nankai.jpg" alt="nankai" width="15%"/></left>          
 
-                                                                           Nankai University<br>Master of Engineering in Control Engineering            
-<left><img src="/images/nankai.jpg" alt="nankai" width="15%"/></left>      Advisor: Prof. [Jianlei Zhang](https://jianleizhang.net/home-english/)    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three Column Layout</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 20px;
+        }
+        .image {
+            flex: 1;
+        }
+        .text {
+            flex: 2;
+            text-align: center;
+        }
+        .date {
+            flex: 1;
+            text-align: right;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="image">
+            <img src="/images/nankai.jpg" alt="Description of image">
+        </div>
+        <div class="text">
+            <p>Nankai University<br>Master of Engineering in Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
+        </div>
+        <div class="date">
+            <p>2024-07-29</p>
+        </div>
+    </div>
+</body>
+</html>
+
 
 
 <left><img src="/images/qinggong.jpg" alt="nankai" width="15%"/></left>
