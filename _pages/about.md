@@ -20,23 +20,18 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
     <style>
         .container {
             display: flex;
-            justify-content: space-between;
-            align-items: center;
+            justify-content: flex-start;
+            align-items: flex-start;
             margin: 20px;
         }
         .image {
-            flex: 1;
+            margin-right: 20px;
         }
         .text {
-            flex: 2;
-            text-align: center;
-        }
-        .date {
-            flex: 1;
-            text-align: right;
+            margin-right: 20px;
         }
         img {
-            max-width: 100%;
+            max-width: 100px; /* Set a fixed width for the image */
             height: auto;
         }
     </style>
@@ -44,7 +39,7 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
 <body>
     <div class="container">
         <div class="image">
-            <img src="/images/nankai.jpg" alt="nankai" width="100%"/>
+            <img src="/images/nankai.jpg" alt="nankai" width="80%"/>
         </div>
         <div class="text">
             <p>Nankai University<br>Master of Engineering in Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
