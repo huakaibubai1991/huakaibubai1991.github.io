@@ -30,10 +30,10 @@ I am currently a senior data mining engineer at *Data Intelligence Department*, 
             margin-right: 5px; /* Add spacing between image and text */
         }
         .text {
-            flex: 2;
+            flex: 3;
             text-align: left;
             font-size: 16px;
-            height: 80px; /* Fixed height */
+            height: 100px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
             margin-top: 5px; /* Adjust top margin if needed */
         }
