@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
 
   - title: "Patent"
-    url: /patents/
+    url: /patent/
 
   - title: "Awards"
     url: /awards/
