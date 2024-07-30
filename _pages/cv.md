@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/Xuefang_ZHAO_CV.pdf
+permalink: /cv/files/Xuefang_ZHAO_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
