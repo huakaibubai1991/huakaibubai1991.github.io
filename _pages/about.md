@@ -43,7 +43,7 @@ redirect_from:
             margin-top: 10px; /* Adjust top margin if needed */
         }
         img {
-            max-width: 100px; /* Fixed width for the image */
+            max-width: 90px; /* Fixed width for the image */
             height: auto;
         }
     </style>
@@ -107,7 +107,7 @@ redirect_from:
             margin-top: 10px; /* Adjust top margin if needed */
         }
         img {
-            max-width: 100px; /* Fixed width for the image */
+            max-width: 90px; /* Fixed width for the image */
             height: auto;
         }
     </style>
