@@ -26,7 +26,7 @@ redirect_from:
         }
         .image {
             flex: 1;
-            margin-right: 3px; /* Add spacing between image and text */
+            margin-right: 2px; /* Add spacing between image and text */
         }
         .text {
             flex: 5;
@@ -90,7 +90,7 @@ redirect_from:
         }
         .image {
             flex: 1;
-            margin-right: 3px; /* Add spacing between image and text */
+            margin-right: 2px; /* Add spacing between image and text */
         }
         .text {
             flex: 3.5;
