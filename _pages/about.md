@@ -29,7 +29,7 @@ redirect_from:
             margin-right: 4px; /* Add spacing between image and text */
         }
         .text {
-            flex: 5;
+            flex: 4;
             text-align: left;
             height: 100px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
@@ -93,7 +93,7 @@ redirect_from:
             margin-right: 4px; /* Add spacing between image and text */
         }
         .text {
-            flex: 5;
+            flex: 4;
             text-align: left;
             height: 100px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
