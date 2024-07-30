@@ -23,6 +23,6 @@ redirect_from:
 </head>
 <body>
     <h1>My PDF Document</h1>
-    <embed src="files/Xuefang_ZHAO_CV.pdf" type="application/pdf" class="pdf-container">
+    <embed src="/files/Xuefang_ZHAO_CV.pdf" type="application/pdf" class="pdf-container">
 </body>
 </html>
