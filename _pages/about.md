@@ -11,7 +11,7 @@ redirect_from:
 
 
 **Education Background**
-<h2>Education Background</h2>
+<p style="font-size: 20px; font-weight: bold;">Education Background</p>
 
 <html lang="en">
 <head>
@@ -30,17 +30,17 @@ redirect_from:
             margin-right: 4px; /* Add spacing between image and text */
         }
         .text {
-            flex: 4;
+            flex: 3.5;
             text-align: left;
             height: 100px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
-            font-size: 17px;
+            font-size: 16px;
             margin-top: 10px; /* Adjust top margin if needed */
         }
         .date {
             flex: 1;
             text-align: right;
-            font-size: 17px;
+            font-size: 16px;
             margin-top: 10px; /* Adjust top margin if needed */
         }
         img {
@@ -76,7 +76,7 @@ redirect_from:
 </html>
 
 **Working Experience**
-<h2>Working Experience</h2>
+<p style="font-size: 20px; font-weight: bold;">Working Experience</p>
 
 <html lang="en">
 <head>
@@ -95,17 +95,17 @@ redirect_from:
             margin-right: 4px; /* Add spacing between image and text */
         }
         .text {
-            flex: 4;
+            flex: 3.5;
             text-align: left;
             height: 100px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
-            font-size: 17px;
+            font-size: 16px;
             margin-top: 10px; /* Adjust top margin if needed */
         }
         .date {
             flex: 1;
             text-align: right;
-            font-size: 17px;
+            font-size: 16px;
             margin-top: 10px; /* Adjust top margin if needed */
         }
         img {
