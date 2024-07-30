@@ -11,6 +11,7 @@ redirect_from:
 
 
 **Education Background**
+<h2>Education Background</h2>
 
 <html lang="en">
 <head>
@@ -75,6 +76,7 @@ redirect_from:
 </html>
 
 **Working Experience**
+<h2>Working Experience</h2>
 
 <html lang="en">
 <head>
