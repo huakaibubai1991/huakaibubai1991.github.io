@@ -57,7 +57,7 @@ redirect_from:
             <p><b>M.Eng., Nankai University</b><br>Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
         </div>
         <div class="date">
-            <p>2016.09-2018.06</p>
+            <p>2016-2018</p>
         </div>
     </div>
     <div class="container">
@@ -68,7 +68,7 @@ redirect_from:
             <p><b>B.Eng., North China University of Science and Technology</b><br>Electrical Engineering and Automation<br>Outstanding Graduates of Hebei Province</p>
         </div>
         <div class="date">
-            <p>2011.09-2015.06</p>
+            <p>2011-2015</p>
         </div>
     </div>
 </body>
