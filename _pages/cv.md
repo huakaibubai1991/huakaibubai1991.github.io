@@ -22,7 +22,7 @@ redirect_from:
     </style>
 </head>
 <body>
-    <h1>My PDF Document</h1>
+    <p>If the embedded PDF below does not load, you can <a href="https://huakaibubai1991.github.io/files/Xuefang_ZHAO_CV.pdf">download it here</a>.</p>
     <embed src="/files/Xuefang_ZHAO_CV.pdf" type="application/pdf" class="pdf-container">
 </body>
 </html>
