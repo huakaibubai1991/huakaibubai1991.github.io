@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a senior data mining engineer at *Data Intelligence Department*, *User Profile Group*, [Meitu](https://www.meitu.com/en). Before joining Meitu in 2019, I was a business analyst at *Hotel and Travel Department*, *User Growth Group*, [Meituan](https://www.meituan.com/en-US/about-us) in 2018. Prior to this, I received my Master of Engineering degree from [Nankai University](https://www.nankai.edu.cn/) in 2018. I graduated with a bachelor's degree from [School of Electrical Information, North China University of Science and Technology](https://www.qgxy.cn/index.html) in 2015.
 
-
+<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
 
 **Education Background**
 
