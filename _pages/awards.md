@@ -26,6 +26,6 @@ author_profile: true
 
 <p style="font-size: 20px; font-weight: bold;">Services</p>
 
-- [2012.06] Volunteer from the Qing Gong College of North China University of Technology participated in the project of caring for autistic children and lonely elderly people
+- [2012.06] Volunteer from the Qing Gong College of North China University of Technology participated in the projects of caring for autistic children and lonely elderly people
 
 
