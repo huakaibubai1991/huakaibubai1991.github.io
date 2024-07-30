@@ -29,7 +29,7 @@ redirect_from:
             margin-right: 3px; /* Add spacing between image and text */
         }
         .text {
-            flex: 4;
+            flex: 5;
             text-align: left;
             height: 100px; /* Fixed height */
             overflow: hidden; /* Hide overflow text */
