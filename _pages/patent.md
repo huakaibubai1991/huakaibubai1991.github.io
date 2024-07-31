@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.patent reversed %}
+{% for post in site.patent %}
   {% include archive-single.html %}
 {% endfor %}
-
