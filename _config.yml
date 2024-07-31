@@ -24,7 +24,7 @@ author:
   avatar           : "zxf.png"
   name             : "Xuefang Zhao"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "A lifelong learner with a strong passion and interest in scientific research, big data, data mining, machine learning, etc."
   location         : "Beijing China"
   employer         : "Nankai University"
   uri              : # URL
@@ -212,6 +212,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  patent:
+    output: true
+    permalink: /:collection/:path/
+  
 
 
 # Defaults
@@ -269,6 +273,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _patent
+  - scope:
+      path: ""
+      type: patent
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
