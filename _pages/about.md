@@ -10,6 +10,8 @@ redirect_from:
 <p style="font-size: 17px; text-align: justify;">I am currently a senior data mining engineer at Data Intelligence Department, User Profile Group, <a href="https://www.meitu.com/en">Meitu</a>. Before joining Meitu in 2019, I was a business analyst at Hotel and Travel Department, User Growth Group, <a href="https://www.meituan.com/en-US/about-us">Meituan</a> in 2018. Prior to this, I received my Master of Engineering degree from <a href="https://www.nankai.edu.cn/">Nankai University</a> in 2018. I graduated with a bachelor's degree from <a href="https://www.qgxy.cn/index.html">QingGong College, North China University of Science and Technology</a> in 2015.</p>
 
 
+
+
 <p style="font-size: 24px; font-weight: bold;">Education Background</p>
 
 <html lang="en">
@@ -138,5 +140,15 @@ redirect_from:
     </div>
 </body>
 </html>
+
+ <p style="font-size: 24px; font-weight: bold;">News</p>
+- [2022.01] I am happy to be awarded Meitu Data Intelligence Department Annual Star (Top5%)
+- [2018.06] I am excited to be awarded Nankai University Graduate Scholarship
+
+
+
+
+
+
 
  
