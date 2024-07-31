@@ -142,8 +142,10 @@ redirect_from:
 </html>
 
  <p style="font-size: 24px; font-weight: bold;">News</p>
-- [2022.01] I am happy to be awarded Meitu Data Intelligence Department Annual Star (Top5%)
-- [2018.06] I am excited to be awarded Nankai University Graduate Scholarship
+ 
+- [2022.01] I am happy to be awarded Meitu Data Intelligence Department Annual Star. (Top5%)
+- [2018.06] I am excited to be awarded Nankai University Graduate Scholarship.
+- [2017.09] Our team won the special prize and the national second prize in the National Risk Control and Management Capacity Challenge Competition for Chinese Universities!
 
 
 
