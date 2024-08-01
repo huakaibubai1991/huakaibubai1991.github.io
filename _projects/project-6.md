@@ -10,7 +10,6 @@ excerpt: "<div style='width: 600px;'>
 </div>"
 collection: projects
 date: 2019-04-01
-venue: 'Apr 01'
 ---
 
 
