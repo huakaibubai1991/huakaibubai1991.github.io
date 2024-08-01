@@ -5,9 +5,7 @@ excerpt: "This project is a collaborative research between Nankai University and
 collection: patent
 ---
 
-### Project Timeline
-- **Start Date:** 2024-01-01
-- **End Date:** 2024-12-31
+<p>Patent date: <time datetime="2016-01-01">Sep 1, 2016</time></p>
 
 <img src='/images/movie_box_office_prediction_final.png' style='width: 800px; height: auto;'>
 
