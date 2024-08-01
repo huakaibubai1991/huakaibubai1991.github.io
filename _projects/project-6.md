@@ -1,6 +1,13 @@
 ---
 title: "Meituan Hotel and Travel Scenario Label"
-excerpt: "The project is mainly to label hotels in the hotel and homestay channel of Meituan APP with different scenarios.<br/><img src='/images/project_meituan_label.png' style='width: 600px; height: auto;'>"
+excerpt: "<div style='width: 600px; margin: 0 auto;'>
+  <div style='text-align: left;'> 
+    The project is mainly to label hotels in the hotel and homestay channel of Meituan APP with different scenarios.
+  </div>
+  <div style='text-align: left;'>
+    <img src='/images/project_meituan_label.png' style='width: 600px; height: auto; display: block;' alt='Movie Box Office Prediction System'>
+  </div>
+</div>"
 collection: projects
 date: 2019-04-01
 venue: 'Apr 01'
