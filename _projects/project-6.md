@@ -4,7 +4,7 @@ excerpt: "<div style='width: 600px; margin: 0 auto;'>
              <div style='text-align: justify;'>
                  The project is mainly to label hotels in the hotel and homestay channel of Meituan APP with different scenarios.
              </div>
-             <div style='text-align: center;'>
+             <div style='text-align: left;'>
                  <img src='/images/project_meituan_label.png' style='width: 600px; height: auto; display: block; margin: 0 auto;' alt='Movie Box Office Prediction System'>
              </div>
          </div>"
