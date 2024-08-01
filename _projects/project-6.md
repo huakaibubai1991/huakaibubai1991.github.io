@@ -1,7 +1,7 @@
 ---
 title: "Meituan Hotel and Travel Scenario Label"
 excerpt: "<div style='width: 600px; margin: 0 auto;'>
-             <div style='text-align: left; '>
+             <div style='text-align: left;'>
                  The project is mainly to label hotels in the hotel and homestay channel of Meituan APP with different scenarios.
              </div>
              <div style='text-align: left;'>
