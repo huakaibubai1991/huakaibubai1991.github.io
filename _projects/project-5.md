@@ -1,6 +1,6 @@
 ---
-title: "Projects item number 5"
-excerpt: "Short description of patent item number 5<br/><img src='/images/500x300.png'>"
+title: "Meituan Hotel and Travel Must-stay List"
+excerpt: "Short description of patent item number 5<br/><img src='/images/project_meituan_list.png'>"
 collection: projects
 ---
 
