@@ -10,7 +10,6 @@ excerpt: "<div style='width: 600px;'>
 </div>"
 collection: projects
 date: 2019-05-01
-venue: 'May 01'
 ---
 
 <img src='/images/project_meituan_list.png' style='width: 800px; height: auto;'>
