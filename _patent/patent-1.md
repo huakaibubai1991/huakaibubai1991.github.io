@@ -1,7 +1,7 @@
 ---
 title: "Method and system for predicting box-office performance of movies on basis of neural network algorithms"
 excerpt: "<div style='display: flex; align-items: center;'>
-  <img src='/images/movie_box_office_prediction_final.png' style='width: 300px; height: auto; margin-right: 20px;' alt='Movie Box Office Prediction'>
+  <img src='/images/movie_box_office_prediction_final.png' style='width: 300px; height: auto; margin-right: 50px;' alt='Movie Box Office Prediction'>
   <div style='flex: 5; text-align: left; height: 300px; display: flex; align-items: center;'>
     This project is a collaborative research between Nankai University and Beijing New Think Tank Technology Co., Ltd., which aims to use machine learning algorithms to predict movie box office and improve the accuracy of movie box office predictions. The core of the project is to find the core indicators that affect movie box office predictions and establish a neural network model to predict movie box office. The project finally developed a movie box office prediction system using C#.
   </div>
