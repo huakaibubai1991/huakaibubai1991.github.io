@@ -5,7 +5,7 @@ excerpt: "This project is a collaborative research between Nankai University and
 collection: patent
 ---
 
-<p>Patent date: <time datetime="2016-01-01">Sep 1, 2016</time></p>
+<input type="date" id="start" name="trip-start" value="2016-09-01" min="2016-01-01" max="2018-12-31" />
 
 <img src='/images/movie_box_office_prediction_final.png' style='width: 800px; height: auto;'>
 
