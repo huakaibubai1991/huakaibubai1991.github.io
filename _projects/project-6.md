@@ -9,7 +9,6 @@ excerpt: "<div style='width: 600px;'>
   </div>
 </div>"
 collection: projects
-date: 2019-04-01
 ---
 
 <p class="page__date">
@@ -17,8 +16,8 @@ date: 2019-04-01
     <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
     Date:
   </strong> 
-  <time datetime="2024-08-01">
-    August 01, 2024
+  <time datetime="2019-04-01">
+    April 01, 2019
   </time>
 </p>
 
