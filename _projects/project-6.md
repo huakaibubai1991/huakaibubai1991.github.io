@@ -11,7 +11,18 @@ excerpt: "<div style='width: 600px;'>
 collection: projects
 date: 2019-04-01
 ---
- 
+
+<p class="page__date">
+  <strong>
+    <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
+    {{ site.data.ui-text[site.locale].date_label | default: "Date:" }}
+  </strong> 
+  <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
+    {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
+  </time>
+</p>
+
+
 <img src='/images/project_meituan_label.png' style='width: 800px; height: auto;'>
  
 <p style="text-align: justify;">The project is mainly to label hotels in the hotel and homestay channel of Meituan APP with different scenarios.</p>
