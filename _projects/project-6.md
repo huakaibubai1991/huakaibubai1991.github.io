@@ -11,8 +11,6 @@ excerpt: "<div style='width: 600px;'>
 collection: projects
 date: 2019-04-01
 ---
-
-<input type="date" value="2019-04-01" />
  
 <img src='/images/project_meituan_label.png' style='width: 800px; height: auto;'>
  
