@@ -9,8 +9,17 @@ excerpt: "<div style='width: 600px;'>
   </div>
 </div>"
 collection: projects
-date: 2019-05-01
 ---
+
+<p class="page__date">
+  <strong>
+    <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
+    Date:
+  </strong> 
+  <time datetime="2019-05-01">
+    May 01, 2019
+  </time>
+</p>
 
 <img src='/images/project_meituan_list.png' style='width: 800px; height: auto;'>
 
