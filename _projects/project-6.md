@@ -15,13 +15,12 @@ date: 2019-04-01
 <p class="page__date">
   <strong>
     <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
-    {{ site.data.ui-text[site.locale].date_label | default: "Date:" }}
+    Date:
   </strong> 
-  <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
-    {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
+  <time datetime="2024-08-01">
+    August 01, 2024
   </time>
 </p>
-
 
 <img src='/images/project_meituan_label.png' style='width: 800px; height: auto;'>
  
