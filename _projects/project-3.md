@@ -29,4 +29,4 @@ collection: projects
 <p style="text-align: justify;">The goal of this project is to meet the needs of different member user groups, increase the member life cycle value, improve member retention rate, increase member activity, increase member income and profits, and promote brand communication.</p>
 
 
-<p style="text-align: justify;">In the end, it will help Meitu's membership business carry out activities such as member student discounts and obtain millions of dollars in revenue.</p>
+<p style="text-align: justify;">In the end, meitu membership system will help Meitu's membership business carry out activities such as member student discounts and obtain millions of rmb in revenue.</p>
