@@ -2,7 +2,7 @@
 title: "Meitu Membership System"
 excerpt: "<div style='width: 600px;'>
   <div style='text-align: justify;'> 
-    The project mainly stratifies Meitu users based on different algorithm models and business logics, and builds a user stratification system with labels such as user life cycle, user activity stratification, user date type preference, user time period preference, and user churn probability prediction, etc.
+    The project is mainly based on different algorithm models and business logic to establish a portrait label system for Meitu member users, including member status, member level, member AIPL users, member life cycle, member price sensitivity, potential members, etc. 
   </div>
   <div style='text-align: left;'>
     <img src='/images/meitu_membership_user.png' style='width: 600px; height: auto; display: block;' alt='meitu membership user'>
@@ -11,6 +11,22 @@ excerpt: "<div style='width: 600px;'>
 collection: projects
 ---
 
-This is an item in your projects. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<p class="page__date">
+  <strong>
+    <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
+    Date:
+  </strong> 
+  <time datetime="2023-10-01">
+    October 01, 2023
+  </time>
+</p>
+
+<img src='/images/meitu_membership_user.png' style='width: 800px; height: auto;'>
+
+<p style="text-align: justify;">The project is mainly based on different algorithm models and business logic to establish a portrait label system for Meitu member users, including member status, member level, member AIPL users, member life cycle, member price sensitivity, potential members, etc.</p>
 
 
+<p style="text-align: justify;">The goal of this project is to meet the needs of different member user groups, increase the member life cycle value, improve member retention rate, increase member activity, increase member income and profits, and promote brand communication.</p>
+
+
+<p style="text-align: justify;">In the end, it will help Meitu's membership business carry out activities such as member student discounts and obtain millions of dollars in revenue.</p>
