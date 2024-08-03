@@ -1,7 +1,7 @@
 ---
 title: "User Stratification System"
 excerpt: "<div style='width: 600px;'>
-  <div style='text-align: left;'> 
+  <div style='text-align: justify;'> 
     The project mainly stratifies Meitu users based on different algorithm models and business logics, and builds a user stratification system with labels such as user life cycle, user activity stratification, user date type preference, user time period preference, and user churn probability prediction, etc.
   </div>
   <div style='text-align: left;'>
