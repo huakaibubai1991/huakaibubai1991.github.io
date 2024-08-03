@@ -1,5 +1,5 @@
 ---
-title: "Projects item number 2"
+title: "Meitu Commercial Crowd Mining and Expansion"
 excerpt: "Short description of patent item number 2<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
