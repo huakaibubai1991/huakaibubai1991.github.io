@@ -1,5 +1,5 @@
 ---
-title: "Projects item number 1"
+title: "Meitu User Age Stage Prediction Model"
 excerpt: "Short description of patent item number 1<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
