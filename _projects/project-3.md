@@ -1,5 +1,5 @@
 ---
-title: "Projects item number 3"
+title: "Meitu Membership System"
 excerpt: "Short description of patent item number 3<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
