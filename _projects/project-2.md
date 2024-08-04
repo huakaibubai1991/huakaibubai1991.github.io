@@ -1,6 +1,13 @@
 ---
 title: "Meitu Commercial Crowd Mining and Expansion"
-excerpt: "Short description of patent item number 2<br/><img src='/images/500x300.png'>"
+excerpt: "<div style='width: 600px;'>
+  <div style='text-align: justify;'> 
+    The project is mainly based on different algorithm models and business logic to establish a portrait label system for Meitu member users, including member status, member level, member AIPL users, member life cycle, member price sensitivity, potential members, etc. 
+  </div>
+  <div style='text-align: left;'>
+    <img src='/images/crowd_mining.png' style='width: 600px; height: auto; display: block;' alt='meitu membership user'>
+  </div>
+</div>"
 collection: projects
 ---
 
