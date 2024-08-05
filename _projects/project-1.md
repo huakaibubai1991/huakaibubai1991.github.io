@@ -1,6 +1,13 @@
 ---
 title: "Meitu User Age Stage Prediction Model"
-excerpt: "Short description of patent item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "<div style='width: 600px;'>
+  <div style='text-align: justify;'> 
+    This project is a collaboration with the brand marketing team and consists of three main stages: providing data support, applying different algorithms to deeply mine the commercial population, and automating the production of commercial populations. 
+  </div>
+  <div style='text-align: left;'>
+    <img src='/images/agestage_predict.png' style='width: 600px; height: auto; display: block;' alt='meitu membership user'>
+  </div>
+</div>"
 collection: projects
 ---
 
