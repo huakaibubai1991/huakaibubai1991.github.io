@@ -146,6 +146,8 @@ redirect_from:
 - [2022.01] I am happy to be awarded Meitu Data Intelligence Department Annual Star. (Top5%)
 - [2018.06] I am excited to be awarded Nankai University Graduate Scholarship.
 - [2017.09] Our team won the special prize and the national second prize in the National Risk Control and Management Capacity Challenge Competition for Chinese Universities!
+- [2015.05] I am very excited to receive the honor of Outstanding Graduate of Hebei Province. (Top1%)
+- [2012.11] I am very happy to be awarded the National Scholarship! (1 holder among 400+ students)
 
 
 
