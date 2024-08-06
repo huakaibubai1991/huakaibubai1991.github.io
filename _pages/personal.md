@@ -24,7 +24,7 @@ author_profile: true
     }
     .text {
       width: 100%;
-      text-align: center;
+      text-align: left;
       margin-bottom: 10px;
       font-size: 18px; /* 根据需要调整 */
     }
