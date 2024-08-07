@@ -57,7 +57,7 @@ redirect_from:
             <img src="/images/nankai.jpg" alt="nankai"> <!-- First image -->
         </div>
         <div class="text">
-            <p><b>M.Eng., Nankai University</b><br>Control Engineering<br>Advisor: Prof. Jianlei Zhang</p>
+            <p><b>M.Eng., Nankai University</b><br>Control Engineering<br>Advisor: <a href="https://jianleizhang.net/home-english/">Prof. Jianlei Zhang</a></p>
         </div>
         <div class="date">
             <p>2016.09-2018.06</p>
