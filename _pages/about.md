@@ -122,7 +122,7 @@ redirect_from:
             <img src="/images/meitu.jpg" alt="meitu"> <!-- First image -->
         </div>
         <div class="text">
-            <p><b>Senior Data Mining Engineer, Meitu (Beijing, CHN)</b><br>Intelligence Department, User Profile Group<br>Mentors: Yan Meng, Zhao Yang</p>
+            <p><b>Senior Data Mining Engineer, Meitu (Beijing, CHN)</b><br> Data Intelligence Department, User Portrait Group<br>Mentors: Yan Meng, Zhao Yang</p>
         </div>
         <div class="date">
             <p>2019.06-Present</p>
