@@ -22,10 +22,10 @@ author_profile: true
 - [2014.10] **First prize in the Hebei Provincial Undergraduate Mathematics Contest** (**twice**) (**Top 5%**)
 - [2014.04] Honorable mention of the 2014 Mathematical Contest In Modeling
 - [2014.03] Third prize of the 2014 Asia Pacific Mathematical Contest In Modeling
-- [2012.11] First Prize in the 6th Mathematics Competition of the Light Industry College of North China University of Technology
+- [2012.11] First Prize in the 6th Mathematics Competition of the North China University of Science and Technology
 
 <p style="font-size: 20px; font-weight: bold;">Services</p>
 
-- [2012.06] Volunteer from the Qing Gong College of North China University of Technology participated in the projects of caring for autistic children and lonely elderly people
+- [2012.06] Volunteer from the Qing Gong College of North China University of Science and Technology participated in the projects of caring for autistic children and lonely elderly people
 
 
