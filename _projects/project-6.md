@@ -2,7 +2,7 @@
 title: "Meituan Hotel and Travel Scenario Label"
 excerpt: "<div style='width: 600px;'>
   <div style='text-align: left;'> 
-    The project is mainly to label hotels in the hotel and homestay channel of Meituan APP with different scenarios.
+    The project was mainly to label hotels in the hotel and homestay channel of Meituan APP with different scenarios.
   </div>
   <div style='text-align: left;'>
     <img src='/images/project_meituan_label.png' style='width: 600px; height: auto; display: block;' alt='Movie Box Office Prediction System'>
@@ -23,12 +23,12 @@ collection: projects
 
 <img src='/images/project_meituan_label.png' style='width: 800px; height: auto;'>
  
-<p style="text-align: justify;">The project is mainly to label hotels in the hotel and homestay channel of Meituan APP with different scenarios.</p>
+<p style="text-align: justify;">The project was mainly to label hotels in the hotel and homestay channel of Meituan APP with different scenarios.</p>
 
 
-<p style="text-align: justify;">The goal of the project is to establish a scenario-based label system for Meituan hotels and travel, meet users' various hotel needs, improve users' order decision-making efficiency, and increase the visit-to-purchase rate and paid room nights of hotels in different scenarios.</p>
+<p style="text-align: justify;">The goal of the project was to establish a scenario-based label system for Meituan hotels and travel, meet users' various hotel needs, improve users' order decision-making efficiency, and increase the visit-to-purchase rate and paid room nights of hotels in different scenarios.</p>
 
  
-<p style="text-align: justify;">In the end, the visit-to-purchase rate of pure new labels such as sea view room and ancient town walk increased by an average of 3% compared with the overall market, and the visit-to-purchase rate of optimized labels such as couple dating and riverside increased by 1% compared with before optimization, and the paid room nights of the couple dating label increased by 957 in one week.</p>
+<p style="text-align: justify;">In the end, the visit-to-purchase rate for newly added tags such as "Ancient Town Stroll," "Sea View Room," and "Food Street" increased by an average of 3% compared to the overall market. Optimized tags like "Couple Dating" and "Riverside" experienced a 1% increase in the visit-to-purchase rate, with the "Couple Dating" tag contributing an additional 957 paid room nights per week.</p>
 
 
