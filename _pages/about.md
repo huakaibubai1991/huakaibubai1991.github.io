@@ -133,7 +133,7 @@ redirect_from:
             <img src="/images/meituan.jpg" alt="meituan"> <!-- Second image -->
         </div>
         <div class="text">
-            <p><b>Business Analyst, Meituan (Beijing, CHN)</b><br> Hotel and Travel Department, User Growth Group<br>Mentors: Juan Yin, Hui Chen</p>
+            <p><b>Business Analyst, Meituan (Beijing, CHN)</b><br> User Growth Group, Hotel and Travel Department<br>Mentors: Juan Yin, Hui Chen</p>
         </div>
         <div class="date">
             <p>2018.06-2019.05</p>
