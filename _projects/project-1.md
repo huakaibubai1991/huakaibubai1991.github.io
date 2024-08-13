@@ -1,5 +1,5 @@
 ---
-title: "Meitu User Age Stage Prediction Model"
+title: "Meitu Users Age Stage Prediction Model"
 excerpt: "<div style='width: 600px;'>
   <div style='text-align: justify;'> 
     This project mainly used machine learning and deep learning models to predict the age stage of Meitu users. 
