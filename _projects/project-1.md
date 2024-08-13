@@ -2,7 +2,7 @@
 title: "Meitu User Age Stage Prediction Model"
 excerpt: "<div style='width: 600px;'>
   <div style='text-align: justify;'> 
-    This project mainly uses machine learning and deep learning models to predict the age stage of Meitu users. 
+    This project mainly used machine learning and deep learning models to predict the age stage of Meitu users. 
   </div>
   <div style='text-align: left;'>
     <img src='/images/agestage_predict.png' style='width: 600px; height: auto; display: block;' alt='meitu membership user'>
@@ -23,10 +23,10 @@ collection: projects
 
 <img src='/images/agestage_predict.png' style='width: 800px; height: auto;'>
 
-<p style="text-align: justify;">This project mainly uses machine learning and deep learning models to predict the age stage of Meitu users.</p>
+<p style="text-align: justify;">This project mainly used machine learning and deep learning models to predict the age stage of Meitu users.</p>
 
 
-<p style="text-align: justify;">The goal of this project is to enhance the accuracy of age stage prediction and expand the coverage of the user age stage label. The project primarily developed three versions of the model, employing the following methods:</p>
+<p style="text-align: justify;">The goal of this project was to enhance the accuracy of age stage prediction and expand the coverage of the users age stage label. The project primarily developed three versions of the model, employing the following methods:</p>
 
 
 <p style="text-align: justify;">(1) Established Logistic Regression and Random Forest models to predict the age stages of Meitu users based on user portrait labels, community consumption behaviors, tool click behaviors, and other features, achieving an initial accuracy of 45% and then implemented a stacking model of LR, Random Forest, and XGBoost, which increased the model accuracy to 50%.</p>
