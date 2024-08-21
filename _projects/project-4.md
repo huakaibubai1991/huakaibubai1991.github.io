@@ -1,5 +1,5 @@
 ---
-title: "User Stratification System"
+title: "Meitu Users Stratification System"
 excerpt: "<div style='width: 600px;'>
   <div style='text-align: justify;'> 
     The project mainly stratified Meitu users based on different algorithm models and business logic and built a user stratification system with labels such as user life cycle, user activity stratification, user date type preference, user time segment preference, and user churn probability prediction, etc.
