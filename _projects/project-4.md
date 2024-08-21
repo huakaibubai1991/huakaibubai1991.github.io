@@ -29,6 +29,6 @@ collection: projects
 <p style="text-align: justify;">The goal of this project was to accurately segment user groups according to different business scenarios and implement targeted strategies based on the characteristics of each group. This approach aimed to improve the business conversion rate while maximizing user value with fewer resources and lower costs.</p>
 
 
-<p style="text-align: justify;">In the end, the active stratification labels of Xiuxiu Community users were applied to push, and the CTR increased by 4.767%; the date type preference and time segment preference features were added to user age stage prediction, with the accuracy rate increased from 60% to 66%.</p>
+<p style="text-align: justify;">In the end, the users’ activity stratification label of the Meitu community was applied to push, and the CTR increased by 4.767%.</p>
 
 
