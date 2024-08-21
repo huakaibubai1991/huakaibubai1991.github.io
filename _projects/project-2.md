@@ -29,7 +29,7 @@ collection: projects
 <p style="text-align: justify;">Phase 1: Provided data support for the brand marketing team, produced a brand marketing white paper, provided data support for GAC Toyota, Wanglaoji, and other advertisements, and provided data support for summer travel series partner brands, thereby obtaining high advertising revenue.</p>
 
 
-<p style="text-align: justify;">Phase 2: Mined the commercial population deeply, applied TGI, Jaccard Similarity, Simhash, and Look-alike algorithms to expand the number of commercial populations, and conducted precise advertising delivery.</p>
+<p style="text-align: justify;">Phase 2: Deeply explored commercial populations, applied TGI, Jaccard Similarity, Simhash, and Look-alike algorithms in sequence to expand the number of commercial populations, and conducted targeted advertising.</p>
 
 
 <p style="text-align: justify;">Phase 3: Under the support of underlying data, applied the Large Language Model to build an intelligent marketing framework, and finally automatically generated commercial population labels.</p>
