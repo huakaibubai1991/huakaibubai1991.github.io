@@ -23,7 +23,7 @@ collection: projects
 
 <img src='/images/project_meituan_list.png' style='width: 800px; height: auto;'>
 
-<p style="text-align: justify;">The project was mainly to create a must-stay list for the hotel and homestay channel of Meituan APP, including a city list and a national special list.</p>
+<p style="text-align: justify;">The project was to create a must-stay list for the hotel and homestay channel of Meituan APP, including a city list and a national special list.</p>
 
 
 <p style="text-align: justify;">The goals of the project were:
