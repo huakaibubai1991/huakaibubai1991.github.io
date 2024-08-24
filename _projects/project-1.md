@@ -38,5 +38,5 @@ collection: projects
 <p style="text-align: justify;">(3) Established a decision tree model to predict the age stage of Meitu users based on the users’ portrait labels, community consumption behaviors, tool click behaviors, and other features, with a model accuracy of 60% and added the users’ date type preference and users’ time segment preference based on the previous features to establish a LightGBM model, with the model accuracy increased from 60% to 66%.</p>
 
 
-<p style="text-align: justify;">In the end, the models predicted the age stage of hundreds of millions of Meitu users, with the accuracy rate increasing from 45% to 66%.</p>
+<p style="text-align: justify;">Finally, the models predicted the age stage of hundreds of millions of Meitu users, with the accuracy rate increasing from 45% to 66%.</p>
 
