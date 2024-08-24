@@ -2,7 +2,7 @@
 title: "Meitu Users Stratification System"
 excerpt: "<div style='width: 600px;'>
   <div style='text-align: justify;'> 
-    The project mainly stratified Meitu users based on different algorithm models and business logic and built a user stratification system with labels such as user life cycle, user activity stratification, user date type preference, user time segment preference, and user churn probability prediction, etc.
+    The project mainly stratified Meitu users based on different algorithm models and business logic and built a user stratification system with labels such as users' life cycle, users' activity stratification, users' date type preference, users' time segment preference, and users' churn probability prediction, etc.
   </div>
   <div style='text-align: left;'>
     <img src='/images/user_layer.png' style='width: 600px; height: auto; display: block;' alt='user stratification'>
@@ -23,12 +23,12 @@ collection: projects
 
 <img src='/images/user_layer.png' style='width: 800px; height: auto;'>
 
-<p style="text-align: justify;">The project mainly stratified Meitu users based on different algorithm models and business logic and built a user stratification system with labels such as user life cycle, user activity stratification, user date type preference, user time segment preference, and user churn probability prediction, etc.</p>
+<p style="text-align: justify;">The project mainly stratified Meitu users based on different algorithm models and business logic and built a user stratification system with labels such as users' life cycle, users' activity stratification, users' date type preference, users' time segment preference, and users' churn probability prediction, etc.</p>
 
 
-<p style="text-align: justify;">The goal of this project was to accurately segment user groups according to different business scenarios and implement targeted strategies based on the characteristics of each group. This approach aimed to improve the business conversion rate while maximizing user value with fewer resources and lower costs.</p>
+<p style="text-align: justify;">The goals of this project were to accurately segment user groups according to different business scenarios and implement targeted strategies based on the characteristics of each group. This approach aimed to improve the business conversion rate while maximizing user value with fewer resources and lower costs.</p>
 
 
-<p style="text-align: justify;">In the end, the users’ activity stratification label of the Meitu community was applied to push, and the CTR increased by 4.767%.</p>
+<p style="text-align: justify;">Finally, the users’ activity stratification label of the Meitu community was applied to push, and the CTR increased by 4.767%.</p>
 
 
