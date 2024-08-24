@@ -2,7 +2,7 @@
 title: "Meitu Commercial Crowd Mining and Expansion"
 excerpt: "<div style='width: 600px;'>
   <div style='text-align: justify;'> 
-    This project was a collaboration with the brand marketing team and consisted of three main stages: providing data support, applying different algorithms to mine the commercial population deeply, and automating the production of commercial populations.
+    The project, in collaboration with the brand marketing team, consisted of three main phases: providing data support, applying different algorithms to mine the commercial population deeply, and automating the production of commercial populations.
   </div>
   <div style='text-align: left;'>
     <img src='/images/crowd_mining.png' style='width: 600px; height: auto; display: block;' alt='meitu membership user'>
@@ -23,7 +23,7 @@ collection: projects
 
 <img src='/images/crowd_mining.png' style='width: 800px; height: auto;'>
 
-<p style="text-align: justify;">This project was a collaboration with the brand marketing team and consisted of three phases:</p>
+<p style="text-align: justify;">The project, in collaboration with the brand marketing team, consisted of three main phases:</p>
 
 
 <p style="text-align: justify;">Phase 1: Provided data support for the brand marketing team, produced a brand marketing white paper, provided data support for GAC Toyota, Wanglaoji, and other advertisements, and provided data support for summer travel series partner brands, thereby obtaining high advertising revenue.</p>
