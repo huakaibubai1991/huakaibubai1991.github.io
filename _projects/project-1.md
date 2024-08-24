@@ -26,7 +26,7 @@ collection: projects
 <p style="text-align: justify;">This project mainly used machine learning and deep learning models to predict the age stage of Meitu users.</p>
 
 
-<p style="text-align: justify;">The goal of this project was to enhance the accuracy of age stage prediction and expand the coverage of the users age stage label. The project primarily developed three versions of the model, employing the following methods:</p>
+<p style="text-align: justify;">The goals of this project were to enhance the accuracy of age stage prediction and expand the coverage of the users' age stage labels. The project primarily developed three versions of the model, employing the following methods:</p>
 
 
 <p style="text-align: justify;">(1) Established Logistic Regression and Random Forest models to predict the age stages of Meitu users based on users’ portrait labels, community consumption behaviors, tool click behaviors, and other features, achieving an initial accuracy of 45% and then implemented a stacking model of Logistic Regression, Random Forest, and XGBoost, which increased the model accuracy to 50%.</p>
