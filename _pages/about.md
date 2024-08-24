@@ -10,7 +10,7 @@ redirect_from:
 <p style="font-size: 17px; text-align: justify;">I am a senior data mining engineer at the User Portrait Group, Data Intelligence Department,  <a href="https://www.meitu.com/en">Meitu</a>. Before joining Meitu in 2019, I was a business analyst at the User Growth Group, Hotel and Travel Department,  <a href="https://www.meituan.com/en-US/about-us">Meituan</a> in 2018. Before this, I received my Master of Engineering degree from <a href="https://www.nankai.edu.cn/">Nankai University</a> in 2018. I graduated with a bachelor's degree from <a href="https://www.qgxy.cn/index.html">QingGong College, North China University of Science and Technology</a> in 2015.</p>
 
 
-<p style="font-size: 17px; text-align: justify;">I have broad research interests including machine learning, data management, data analysis, data mining, computer vision, and distributed systems. In the future, I am interested in pursuing research topics that have a positive societal impact, particularly at the intersection of data science, AI, and psychology. My goal is to develop intelligent soothing robots or machine learning models that can better understand and respond to human emotions.</p>
+<p style="font-size: 17px; text-align: justify;">I have broad research interests including machine learning, data management, data analysis, data mining, computer vision, and distributed systems. In the future, I am interested in pursuing research topics that have a positive societal impact, particularly at the intersection of data science, AI, and psychology. I aim to develop intelligent soothing robots or machine learning models capable of better understanding and responding to human emotions.</p>
 
 
 <p style="font-size: 24px; font-weight: bold;">Education Background</p>
