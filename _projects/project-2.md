@@ -26,7 +26,7 @@ collection: projects
 <p style="text-align: justify;">The project, in collaboration with the brand marketing team, consisted of three main phases:</p>
 
 
-<p style="text-align: justify;">Phase 1: Provided data support for the brand marketing team, produced a brand marketing white paper, provided data support for GAC Toyota, Wanglaoji, and other advertisements, and provided data support for summer travel series partner brands, thereby obtaining high advertising revenue.</p>
+<p style="text-align: justify;">Phase 1: Provided data support for the brand marketing team, produced a brand marketing white paper, provided data support for GAC Toyota, Wanglaoji, and other advertisements, and provided data support for summer travel series brands, thereby obtaining high advertising revenue.</p>
 
 
 <p style="text-align: justify;">Phase 2: Deeply explored commercial populations, applied TGI, Jaccard Similarity, Simhash, and Look-alike algorithms to expand the number of commercial populations, and conducted targeted advertising.</p>
