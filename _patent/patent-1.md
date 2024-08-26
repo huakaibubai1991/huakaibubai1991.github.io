@@ -1,5 +1,5 @@
 ---
-title: "Method and system for predicting box-office performance of movies based on neural network algorithm"
+title: "Method and system for predicting box-office performance of movies based on a neural network algorithm"
 excerpt: "<div style='display: flex; align-items: center;'>
   <img src='/images/movie_box_office_prediction_final.png' style='width: 300px; height: auto; margin-right: 50px;' alt='Movie Box Office Prediction'>
   <div style='flex: 5; text-align: left; height: 300px; display: flex; align-items: center;'>
