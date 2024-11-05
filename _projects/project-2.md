@@ -2,7 +2,7 @@
 title: "Meitu Commercial Crowd Mining and Expansion"
 excerpt: "<div style='width: 600px;'>
   <div style='text-align: justify;'> 
-    The project, in collaboration with the brand marketing team, consisted of three main phases: providing data support, applying different algorithms to mine the commercial population deeply, and automating the production of commercial populations.
+    The project, which was conducted in collaboration with the brand marketing team, consisted of three main phases: providing data support, applying different algorithms to mine the commercial population deeply, and automating the production of commercial populations.
   </div>
   <div style='text-align: left;'>
     <img src='/images/crowd_mining.png' style='width: 600px; height: auto; display: block;' alt='meitu membership user'>
