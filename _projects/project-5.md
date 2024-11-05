@@ -2,7 +2,7 @@
 title: "Meituan Hotel and Travel Must-stay List"
 excerpt: "<div style='width: 600px;'>
   <div style='text-align: left;'> 
-    The project mainly created a must-stay list for the hotel and homestay channel of Meituan app, including a city list and a national special list.
+    The project mainly created a must-stay list for the Meituan app's hotel and homestay channel, including a city list and a national special list.
   </div>
   <div style='text-align: left;'>
     <img src='/images/project_meituan_list.png' style='width: 600px; height: auto; display: block;' alt='must-stay list'>
