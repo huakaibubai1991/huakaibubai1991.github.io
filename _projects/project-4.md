@@ -29,6 +29,6 @@ collection: projects
 <p style="text-align: justify;">The goals of this project were to accurately segment user groups according to different business scenarios and implement targeted strategies based on the characteristics of each group. This approach aimed to improve the business conversion rate while maximizing user value with fewer resources and lower costs.</p>
 
 
-<p style="text-align: justify;">Finally, the users’ activity stratification label of the Meitu community was applied to push, and the CTR increased by 4.767%.</p>
+<p style="text-align: justify;">Finally, the users' activity stratification label of the Meitu community was applied to push, and the CTR increased by 4.767%.</p>
 
 
