@@ -32,7 +32,7 @@ collection: projects
 <p style="text-align: justify;">Phase 2: Deeply explored commercial populations, applied TGI, Jaccard Similarity, Simhash, and Look-alike algorithms to expand the number of commercial populations, and conducted targeted advertising.</p>
 
 
-<p style="text-align: justify;">Phase 3: Under the support of underlying data, applied the Large Language Model to build an intelligent marketing label framework, and finally automatically generated commercial population labels.</p>
+<p style="text-align: justify;">Phase 3: Under the support of underlying data, the Large Language Model was applied to build an intelligent marketing label framework, and finally, commercial population labels were automatically generated.</p>
 
 
 
